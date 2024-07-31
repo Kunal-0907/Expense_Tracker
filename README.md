@@ -57,7 +57,7 @@ npm install
 
 ## Author(s)
 
-### KUNAL PATEL
+### Kunal Sharma
 
 ---
 
